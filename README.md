@@ -53,4 +53,3 @@ Os cenários de teste em Gherkin estão documentados no arquivo `features/estoqu
 - Remoção de itens
 - Movimentações de estoque
 - Validações de erro
-# TarefaCypress
